@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=thanaporn&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=thanaporn&data=followers,repositories,stars,commits&theme=carbon)]
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,html,css,c&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 <!--
 **thanaporn0/thanaporn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
